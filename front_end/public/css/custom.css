@@ -6,3 +6,22 @@
 	Note: This is custom css. All custom styles (user styles) declare here.
 
 **********************************************************************************/
+
+.arrows_style {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.post__itam .content h3 a {
+    color: black;
+}
+
+a:hover {
+    color: #ce7852!important;
+    text-decoration: none!important;
+}
+a {
+    font-family: 'Poppins';
+}
+

@@ -18,7 +18,7 @@ const Slider = () => {
             alt="First slide"
             style={styleImg}
           />
-
+          
         </Carousel.Item>
         <Carousel.Item>
           <img
