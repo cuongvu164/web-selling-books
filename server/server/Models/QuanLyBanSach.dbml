@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyBanSach" Class="QuanLyBanSachDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=MINHNGUYEN359\SQLEXPRESS;Initial Catalog=QuanLyBanSach;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="QuanLyBanSachConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Book" Member="Books">
+    <Type Name="Book">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Author" Type="System.String" DbType="NVarChar(45)" CanBeNull="true" />
+      <Column Name="Price" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Detail" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="Image" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="Amount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Publisher" Type="System.String" DbType="NVarChar(45)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Bookshelf_position" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Image2" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Bookshelf" Member="Bookshelfs">
+    <Type Name="Bookshelf">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="Position" Type="System.String" DbType="NVarChar(45)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Customer" Member="Customers">
+    <Type Name="Customer">
+      <Column Name="Email" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(45)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(45)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="NVarChar(11)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Manager" Member="Managers">
+    <Type Name="Manager">
+      <Column Name="Email" Type="System.String" DbType="NVarChar(45) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(45)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(90)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="NVarChar(11)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Publisher" Member="Publishers">
+    <Type Name="Publisher">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(45)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="NVarChar(11)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TypeBook" Member="TypeBooks">
+    <Type Name="TypeBook">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(45) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -4,7 +4,25 @@ import {
   Link
 } from "react-router-dom";
 
+import { useSelector, useDispatch } from 'react-redux'
+import { setUser as setUserStore } from '../../redux/reducer/user'
+
 const Navbar = () => {
+  const loggedInUser = useSelector(store => store.user.user)
+  const dispatch = useDispatch()
+  const obj=JSON.parse(localStorage.getItem('user'));
+
+  const logoutUser = () => {
+
+    // localStorage.setItem('user',false);
+    dispatch(setUserStore({
+      address: null,
+      name: null,
+      email: null,
+      status: false
+    }))
+
+  }
   return (
     <>
       <header id="wn__header" className="header__area header__absolute sticky__header">
@@ -23,7 +41,7 @@ const Navbar = () => {
                   <li className="drop with--one--item">
                     <Link to="/">Home</Link>
                   </li>
-                
+
                   <li className="drop"><Link to="/book">Books</Link>
                   </li>
                   <li className="drop"><a href="shop-grid.html">Kids</a>
@@ -55,16 +73,20 @@ const Navbar = () => {
                   <li>
                     <a href="contact.html">Contact</a>
                   </li>
+                  
                 </ul>
               </nav>
             </div>
             <div className="col-md-6 col-sm-6 col-6 col-lg-2">
               <ul className="header__sidebar__right d-flex justify-content-end align-items-center">
                 <li className="shopcart"><a className="cartbox_active" href="#"><span className="product_qun">0</span></a></li>
-                
-                <li className="setting__bar__icon"><Link className="setting__active" to="/signin" />
+                <li style={{marginRight:'15px'}}><a href="/">{obj.name}</a></li>
+                    
+                  
+                {
+                  obj.status ? <li><Link to="/" onClick={() => logoutUser()}>LogOut</Link></li> : <li className="setting__bar__icon"><Link className="setting__active" to="/signin" /></li>
+                }
 
-                </li>
               </ul>
             </div>
           </div>

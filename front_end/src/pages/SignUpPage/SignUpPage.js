@@ -53,7 +53,7 @@ const SignUpPage = () => {
     console.log('count', count)
     const newData = { ...values }
     console.log('test newdata', newData)
-    await axios.post(`http://localhost:5000/customer/add?id=${count}&name=${values.name}&address=${values.address}&phonenumb=${values.phonenum}&email=${values.email}&pass=${values.password}`)
+    await axios.post(`http://localhost:5000/account/signup?name=${values.name}&address=${values.address}&phonenumb=${values.phonenum}&email=${values.email}&pass=${values.password}`)
       .then(response => {
         setUser(response.data)
         console.log('test post', response.data)

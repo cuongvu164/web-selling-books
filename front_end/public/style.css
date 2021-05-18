@@ -2086,11 +2086,7 @@ Header Styles
 
 /* Header Style Four*/
 .header__absolute {
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0px;
-  z-index: 9; }
+    background-color: #f1f1f1;}
 
 
 /* switcher account*/
@@ -4791,20 +4787,7 @@ h3.widget-title-modal {
   text-align: center;
   text-transform: capitalize;
 }
-  .gallery__menu button {
-    background: #fff none repeat scroll 0 0;
-    color: color: #333;
-    border: medium none;
-    display: inline-block;
-    font-size: 12px;
-    font-weight: 600;
-    line-height: 45px;
-    margin-bottom: 5px;
-    margin-right: 2px;
-    padding: 0 20px;
-    position: relative;
-    transition: all 0.4s ease-out 0s;
-    z-index: 2; }
+
     .gallery__menu button::after {
       border-color: #fff #fff transparent transparent;
       border-style: solid;
@@ -5869,9 +5852,7 @@ a.checkout__title {
       font-weight: 400; }
       .wedget__categories.poroduct--cat ul li a:hover {
         color: #ce7852; }
-      .wedget__categories.poroduct--cat ul li a span {
-        color: ##333;
-        float: right; }
+
 .wedget__categories.pro--range {
   margin: 0 0 30px; }
 .wedget__categories.poroduct--compare {

@@ -25,3 +25,14 @@ a {
     font-family: 'Poppins';
 }
 
+.page-shop-sidebar .container .row .col-lg-9 .tab__container .shop-grid {
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page-shop-sidebar .container .row .col-lg-9 .tab__container .shop-grid .product__thumb img {
+    height: 340px;
+    object-fit: cover;
+    width: 270px;
+}

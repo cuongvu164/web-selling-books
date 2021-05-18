@@ -1,0 +1,246 @@
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\server.dll.config
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\server.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\server.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\csc.exe
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\csc.exe.config
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\csc.rsp
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\csi.exe
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\csi.exe.config
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\csi.rsp
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.AppContext.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Console.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\vbc.exe
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\vbc.exe.config
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\vbc.rsp
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\Antlr3.Runtime.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\Newtonsoft.Json.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Helpers.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Http.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Mvc.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Optimization.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Razor.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.WebPages.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\WebGrease.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\Newtonsoft.Json.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Helpers.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Http.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Mvc.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Optimization.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.Razor.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.WebPages.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\Antlr3.Runtime.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\obj\Debug\server.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\obj\Debug\server.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\web-selling-books\server\server\obj\Debug\server.pdb
+E:\web-selling-books\server\server\bin\server.dll.config
+E:\web-selling-books\server\server\bin\server.dll
+E:\web-selling-books\server\server\bin\server.pdb
+E:\web-selling-books\server\server\bin\roslyn\csc.exe
+E:\web-selling-books\server\server\bin\roslyn\csc.exe.config
+E:\web-selling-books\server\server\bin\roslyn\csc.rsp
+E:\web-selling-books\server\server\bin\roslyn\csi.exe
+E:\web-selling-books\server\server\bin\roslyn\csi.exe.config
+E:\web-selling-books\server\server\bin\roslyn\csi.rsp
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.Managed.Core.targets
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\web-selling-books\server\server\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\web-selling-books\server\server\bin\roslyn\System.AppContext.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Collections.Immutable.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Console.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Globalization.Calendars.dll
+E:\web-selling-books\server\server\bin\roslyn\System.IO.Compression.dll
+E:\web-selling-books\server\server\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\web-selling-books\server\server\bin\roslyn\System.IO.FileSystem.dll
+E:\web-selling-books\server\server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Net.Http.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Net.Sockets.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Reflection.Metadata.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\web-selling-books\server\server\bin\roslyn\System.ValueTuple.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Xml.XmlDocument.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Xml.XPath.dll
+E:\web-selling-books\server\server\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\web-selling-books\server\server\bin\roslyn\vbc.exe
+E:\web-selling-books\server\server\bin\roslyn\vbc.exe.config
+E:\web-selling-books\server\server\bin\roslyn\vbc.rsp
+E:\web-selling-books\server\server\bin\roslyn\VBCSCompiler.exe
+E:\web-selling-books\server\server\bin\roslyn\VBCSCompiler.exe.config
+E:\web-selling-books\server\server\bin\Antlr3.Runtime.dll
+E:\web-selling-books\server\server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\web-selling-books\server\server\bin\Microsoft.Web.Infrastructure.dll
+E:\web-selling-books\server\server\bin\Newtonsoft.Json.dll
+E:\web-selling-books\server\server\bin\System.Net.Http.Formatting.dll
+E:\web-selling-books\server\server\bin\System.Web.Helpers.dll
+E:\web-selling-books\server\server\bin\System.Web.Http.dll
+E:\web-selling-books\server\server\bin\System.Web.Http.WebHost.dll
+E:\web-selling-books\server\server\bin\System.Web.Mvc.dll
+E:\web-selling-books\server\server\bin\System.Web.Optimization.dll
+E:\web-selling-books\server\server\bin\System.Web.Razor.dll
+E:\web-selling-books\server\server\bin\System.Web.WebPages.Deployment.dll
+E:\web-selling-books\server\server\bin\System.Web.WebPages.dll
+E:\web-selling-books\server\server\bin\System.Web.WebPages.Razor.dll
+E:\web-selling-books\server\server\bin\WebGrease.dll
+E:\web-selling-books\server\server\bin\Newtonsoft.Json.xml
+E:\web-selling-books\server\server\bin\System.Net.Http.Formatting.xml
+E:\web-selling-books\server\server\bin\System.Web.Helpers.xml
+E:\web-selling-books\server\server\bin\System.Web.Http.xml
+E:\web-selling-books\server\server\bin\System.Web.Http.WebHost.xml
+E:\web-selling-books\server\server\bin\System.Web.Mvc.xml
+E:\web-selling-books\server\server\bin\System.Web.Optimization.xml
+E:\web-selling-books\server\server\bin\System.Web.Razor.xml
+E:\web-selling-books\server\server\bin\System.Web.WebPages.xml
+E:\web-selling-books\server\server\bin\System.Web.WebPages.Deployment.xml
+E:\web-selling-books\server\server\bin\System.Web.WebPages.Razor.xml
+E:\web-selling-books\server\server\bin\Antlr3.Runtime.pdb
+E:\web-selling-books\server\server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\web-selling-books\server\server\obj\Debug\server.csprojAssemblyReference.cache
+E:\web-selling-books\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\web-selling-books\server\server\obj\Debug\server.csproj.CopyComplete
+E:\web-selling-books\server\server\obj\Debug\server.dll
+E:\web-selling-books\server\server\obj\Debug\server.pdb
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Authorization.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Cors.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Http.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Routing.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\web-selling-books\server\server\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.DependencyModel.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.ObjectPool.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Options.dll
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Primitives.dll
+E:\web-selling-books\server\server\bin\Microsoft.Net.Http.Headers.dll
+E:\web-selling-books\server\server\bin\System.Buffers.dll
+E:\web-selling-books\server\server\bin\System.ComponentModel.Annotations.dll
+E:\web-selling-books\server\server\bin\System.Diagnostics.DiagnosticSource.dll
+E:\web-selling-books\server\server\bin\System.Memory.dll
+E:\web-selling-books\server\server\bin\System.Numerics.Vectors.dll
+E:\web-selling-books\server\server\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\web-selling-books\server\server\bin\System.Text.Encodings.Web.dll
+E:\web-selling-books\server\server\bin\System.Threading.Tasks.Extensions.dll
+E:\web-selling-books\server\server\bin\System.Web.Cors.dll
+E:\web-selling-books\server\server\bin\System.Web.Http.Cors.dll
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Authorization.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Cors.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Http.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Routing.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.ObjectPool.xml
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Options.xml
+E:\web-selling-books\server\server\bin\Microsoft.Extensions.Primitives.xml
+E:\web-selling-books\server\server\bin\Microsoft.Net.Http.Headers.xml
+E:\web-selling-books\server\server\bin\System.Buffers.xml
+E:\web-selling-books\server\server\bin\System.Diagnostics.DiagnosticSource.xml
+E:\web-selling-books\server\server\bin\System.Memory.xml
+E:\web-selling-books\server\server\bin\System.Numerics.Vectors.xml
+E:\web-selling-books\server\server\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\web-selling-books\server\server\bin\System.Text.Encodings.Web.xml
+E:\web-selling-books\server\server\bin\System.Threading.Tasks.Extensions.xml
+E:\web-selling-books\server\server\bin\System.Web.Http.Cors.xml

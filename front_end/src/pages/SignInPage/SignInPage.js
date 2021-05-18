@@ -57,8 +57,8 @@ const SignInPage = () => {
         setUser(response.data)
         if(response.data.length > 0){
           dispatch(setUserStore({
-            id:response.data[0].MaKH,
-            name: response.data[0].TenKH,
+            name: response.data[0].Name,
+            address: response.data[0].Address,
             email: values.email,
             status: true
           }))

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.625" name="QuanLyBanSach">
+  <DataContextMoniker Name="/QuanLyBanSachDataContext" />
+  <nestedChildShapes>
+    <classShape Id="06678ea9-444d-4134-8739-beab54540196" absoluteBounds="0.75, 0.75, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/QuanLyBanSachDataContext/Book" />
+      <nestedChildShapes>
+        <elementListCompartment Id="28faa002-f537-40d2-97be-66611f5e5a6c" absoluteBounds="0.765, 1.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c1a13d7f-78e7-4dc7-83cf-49409c65e713" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/QuanLyBanSachDataContext/Bookshelf" />
+      <nestedChildShapes>
+        <elementListCompartment Id="efdff1d0-ac25-41a4-81b2-29400c5d8ed7" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dfe4d639-0de4-4394-951c-3ad0a4aa81bb" absoluteBounds="3.75, 3.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/QuanLyBanSachDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="689b1eca-5408-44a0-bb80-e7bf8b682635" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e531e0fb-e261-4852-9266-3e4c03b810ce" absoluteBounds="6.75, 0.75, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/QuanLyBanSachDataContext/Manager" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e44b0a16-7926-49f5-b644-624f6be675cf" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fdf4a470-3e11-47f2-adbb-4a1c5b87a017" absoluteBounds="0.75, 6.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QuanLyBanSachDataContext/Publisher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c93157c9-e85a-47c2-9ff1-d0a80bf2a0d3" absoluteBounds="0.765, 7.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="566eda85-cf89-4c83-9928-6ea8dbab4c96" absoluteBounds="6.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/QuanLyBanSachDataContext/TypeBook" />
+      <nestedChildShapes>
+        <elementListCompartment Id="599e9d9f-6e55-435e-bb88-1c23af028fdf" absoluteBounds="6.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
