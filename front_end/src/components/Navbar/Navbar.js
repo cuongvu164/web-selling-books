@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useEffect} from 'react';
 // import bg from '../../../public/images/logo/logo.png'
 import {
   Link
@@ -10,11 +10,7 @@ import { setUser as setUserStore } from '../../redux/reducer/user'
 const Navbar = () => {
   const loggedInUser = useSelector(store => store.user.user)
   const dispatch = useDispatch()
-  const obj=JSON.parse(localStorage.getItem('user'));
-
   const logoutUser = () => {
-
-    // localStorage.setItem('user',false);
     dispatch(setUserStore({
       address: null,
       name: null,
@@ -23,6 +19,17 @@ const Navbar = () => {
     }))
 
   }
+  const setLocalStorage = () => {
+    console.log('setStorage')
+    if (!loggedInUser) {
+      const values = {address: null, name: null, email: null, status: false};
+      console.log('setStorage2',loggedInUser)
+      localStorage.setItem('user',JSON.stringify(values))
+      
+    }
+  }
+  setLocalStorage()
+  const obj=JSON.parse(localStorage.getItem('user'));
   return (
     <>
       <header id="wn__header" className="header__area header__absolute sticky__header">

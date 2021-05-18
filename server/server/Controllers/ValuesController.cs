@@ -29,6 +29,15 @@ namespace server.Controllers
             //Convert encoded bytes back to a 'readable' string
             return BitConverter.ToString(encodedBytes);
         }
+        //Xem thông tin khách hàng
+        [HttpGet]
+        [Route("customer")]
+        public List<Customer> GetAllCustomer()
+        {
+            return db.Customers.ToList();
+        }
+
+
         //Thêm tài khoàn khách hàng
         [HttpPost]
         [Route("account/signup")]
